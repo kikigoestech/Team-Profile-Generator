@@ -5,7 +5,7 @@
 ## Description
 This project is a Node.js command-line application that generates a team profile. It allows users to enter the general information about their employees of a software engineering team. The application would then take the input to generate an HTML page that displays a summary of each team member.
 
-The HTML output can be viewed at this [link](https://kikigoestech.github.io/team-profile-generator/dist/index.html). Click [here](/../main/dist/index.html) to view the `index.html` file.
+The HTML output can be viewed at this [link](http://127.0.0.1:5500/dist/index.html). Click [here](/dist/index.html) to view the `index.html` file.
 
 
 ## Table of Contents
