@@ -16,3 +16,33 @@ body {
 .jumbotron {
     background-color: #d05e12;
 }
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: 400;
+}
+
+/* employee cards formatting */
+
+.main {
+    width: 70%;
+    margin: 0 auto;
+}
+
+div.card {
+    margin: 15px 0;
+    -webkit-box-shadow: 6px 6px 9px -4px rgba(0,0,0,0.6); 
+    box-shadow: 6px 6px 9px -4px rgba(0,0,0,0.6);
+}
+
+div.card-body {
+    background-color: #f7f7f7;
+}
+
+div.card-header {
+    background: linear-gradient(#92ddda, #eee);
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+}
