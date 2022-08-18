@@ -1,7 +1,7 @@
 const Engineer = require('../lib/Engineer');
 
 test('creates an engineer object inherited from Employee', () => {
-    const engineer = new Engineer('Alex', 1, 'alex@domain.com', 'tvoisyabr');
+    const engineer = new Engineer('Chris', 1, 'chris@domain.com', 'tvoisyabr');
 
     expect(engineer.name).toEqual(expect.any(String));
     expect(engineer.id).toEqual(expect.any(Number));
@@ -13,13 +13,13 @@ test('creates an engineer object inherited from Employee', () => {
 });
 
 test('gets github info', () => {
-    const engineer = new Engineer('Alex', 1, 'alex@domain.com', 'tvoisyabr');
+    const engineer = new Engineer('Chris', 1, 'chris@domain.com', 'tvoisyabr');
 
     expect(engineer.github).toEqual(expect.any(String));
 });
 
 test('creates a role of engineer', () => {
-    const engineer = new Engineer('Alex', 1, 'alex@domain.com', 'tvoisyabr');
+    const engineer = new Engineer('Chris', 1, 'chris@domain.com', 'tvoisyabr');
 
     expect(engineer.getRole()).toBe('Engineer');
 });
