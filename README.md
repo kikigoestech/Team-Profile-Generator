@@ -40,7 +40,7 @@ The **Inquirer** package for Node.js collects input regarding your team within t
 
 The newly-generated `index.html` file will be found in the `dist` folder that goes hand-in-hand with the `style.css` file already present there.
 
-A walk through video can be seen [here](file:///Users/christiangarcia/Downloads/Untitled_%20Aug%2018,%202022%202_59%20PM.webm) . Please download video if it does not automatically do so !
+A walk through video can be seen [here](https://drive.google.com/file/d/12-hhx6nfWM4PADZ3sWDpV3FakotPaKTf/view) . Please download video if it does not automatically do so !
 
 
 
