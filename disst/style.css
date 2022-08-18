@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+    
+body {
+    background-color: #fefefe;
+    font-family: 'Karla', Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    font-weight: 300;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.jumbotron {
+    background-color: #d05e12;
+}
