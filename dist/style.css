@@ -4,7 +4,7 @@
     
 body {
     background-color: #fefefe;
-    font-family: 'Karla', Helvetica, Arial, sans-serif;
+    font-family:  'Helvetica', Arial, sans-serif;
     font-size: 1em;
     font-weight: 300;
 }
@@ -14,7 +14,7 @@ body {
 }
 
 .jumbotron {
-    background-color: #d05e12;
+    background-color: rgba(253, 0, 0, 0.6);
 }
 
 h1 {
@@ -33,8 +33,8 @@ h1 {
 
 div.card {
     margin: 15px 0;
-    -webkit-box-shadow: 6px 6px 9px -4px rgba(0,0,0,0.6); 
-    box-shadow: 6px 6px 9px -4px rgba(0,0,0,0.6);
+    -webkit-box-shadow: 6px 6px 9px -4px rgba(234, 12, 12, 0.6); 
+    box-shadow: 6px 6px 9px -4px rgba(243, 3, 3, 0.6);
 }
 
 div.card-body {
