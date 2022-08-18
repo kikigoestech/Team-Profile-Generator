@@ -42,7 +42,29 @@ div.card-body {
 }
 
 div.card-header {
-    background: linear-gradient(#92ddda, #eee);
+    background: linear-gradient(#0e5553, #eee);
     padding: 20px;
     border-bottom: 1px solid #ddd;
+}
+
+.card-header h2 {
+    font-size: 28px;
+    font-weight: 400;
+}
+
+h5.card-title {
+    font-size: 18px;
+    color: #707070;
+    margin: 0;
+}
+
+a:link, a:visited {
+    color: #3fada8;
+    text-decoration: none;
+    transition: all 0.5s ease 0s;
+}
+
+a:hover {
+    color: #92ddda;
+    text-decoration: none;
 }
