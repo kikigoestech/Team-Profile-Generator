@@ -7,6 +7,8 @@ This project is a Node.js command-line application that generates a team profile
 
 The HTML output can be viewed at this [link](http://127.0.0.1:5500/dist/index.html). Click [here](/dist/index.html) to view the `index.html` file.
 
+![screenshot.png](/assets/images/myteamimage.png)
+
 
 ## Table of Contents
 - [Installation](#installation)
@@ -36,7 +38,9 @@ The **Inquirer** package for Node.js collects input regarding your team within t
 
 The newly-generated `index.html` file will be found in the `dist` folder that goes hand-in-hand with the `style.css` file already present there.
 
-A walk through video can be seen [here](https://drive.google.com/file/d/14FxhT-Y_UD4eKW8dcKrswEyj5vglL3wD/view)
+A walk through video can be seen [here](https://drive.google.com/file/d/14FxhT-Y_UD4eKW8dcKrswEyj5vglL3wD/view) . Please download video if it does not automatically do so !
+
+()
 
 
 
