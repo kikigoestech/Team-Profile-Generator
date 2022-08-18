@@ -40,7 +40,7 @@ The newly-generated `index.html` file will be found in the `dist` folder that go
 
 
 ## Contributing
-Thank you for your interest in contributing to this application, but I am not accepting contributions at this time.
+Any and all contributions welcome !
 
 ## Tests
 Enter the following command in terminal to run tests for this application:
